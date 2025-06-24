@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Fundamentals/NTFS.md",
+                "file": "Windows Fundamentals/Basic Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTFS"
+              "title": "Basic Commands"
             }
           }
         ]
@@ -185,9 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "214d9b372207fb12",
+  "active": "91ed63277e41d31c",
   "lastOpenFiles": [
     "Windows Fundamentals/NTFS.md",
+    "Windows Fundamentals/Basic Commands.md",
     "Untitled",
     "Windows Fundamentals",
     "Welcome.md"

@@ -15,4 +15,4 @@ Before NTFS, there was  **FAT16/FAT32** (File Allocation Table) and **HPFS**
 **Alternate Data Streams (ADS):**  
 ADS is a feature in NTFS that lets a file store extra hidden data. File Explorer doesn’t show these streams, but you can view them using PowerShell or special tools.
 
-While hackers can use ADS to hide malware.
+While hackers can use **ADS** to hide malware.
