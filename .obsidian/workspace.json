@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Fundamentals/Amal.md",
+                "file": "Windows Fundamentals/NTFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amal"
+              "title": "NTFS"
             }
           }
         ]
@@ -185,9 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91ed63277e41d31c",
+  "active": "9ace006ae1e5a170",
   "lastOpenFiles": [
-    "Windows Fundamentals/Amal.md",
+    "Windows Fundamentals/NTFS.md",
     "Untitled",
     "Windows Fundamentals",
     "Welcome.md"
