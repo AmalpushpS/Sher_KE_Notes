@@ -16,3 +16,5 @@ ping <target_name> = server can access a particular server on the Internet
 tracert <target_name> = trace route
 netstat = all details about connections
 ipconfig /all = shows all netwrok configuration
+mkdir = make directory
+rmdir = remove director
