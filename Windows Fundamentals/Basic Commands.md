@@ -4,7 +4,7 @@
 ls = For File List
 dir = shows file list 
 dir /a:hd = To show read-only, hidden, and system files.
-del = delete items
+del , erase = delete items
 type = to view what's inside the file
 icacls = to modify Permissions
 net user = shows other users
@@ -18,3 +18,4 @@ netstat = all details about connections
 ipconfig /all = shows all netwrok configuration
 mkdir = make directory
 rmdir = remove director
+move = move files
