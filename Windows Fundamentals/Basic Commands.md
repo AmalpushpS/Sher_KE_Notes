@@ -13,4 +13,5 @@ ver = shows version
 systeminfo = system information
 set = shows you path
 ping <target_name> = server can access a particular server on the Internet
-tracert target_name = trace route
+tracert <target_name> = trace route
+netstat = all details about connections
