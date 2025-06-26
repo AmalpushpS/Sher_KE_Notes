@@ -19,3 +19,4 @@ ipconfig /all = shows all netwrok configuration
 mkdir = make directory
 rmdir = remove director
 move = move files
+tasklist = list the running processes using 
