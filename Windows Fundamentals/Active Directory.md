@@ -17,7 +17,7 @@
 
 ---
 
-##### Machines
+###### Machines
 
 - Every computer that joins the domain gets a **machine account**.
     
@@ -30,7 +30,7 @@
 
 ---
 
-### 🔐 **Security Groups**
+###### Security Groups
 
 - Used to **grant permissions** to files, printers, etc.
     
@@ -39,7 +39,7 @@
 - Groups can include **users**, **machines**, or even other groups.
     
 
-#### 🔸 **Important Default Groups:**
+###### Important Default Groups:
 
 |Group Name|Purpose|
 |---|---|
@@ -50,3 +50,22 @@
 |**Domain Users**|All user accounts.|
 |**Domain Computers**|All joined computers.|
 |**Domain Controllers**|All Domain Controller servers.|
+###### Default AD Containers (One-liners)
+- **Builtin**: Contains system default groups for Windows hosts.
+    
+- **Computers**: New domain-joined machines are placed here by default.
+    
+- **Domain Controllers**: Stores all Domain Controller accounts.
+    
+- **Users**: Contains default domain users and groups.
+    
+- **Managed Service Accounts**: Holds service-specific accounts for secure operations.
+    
+
+---
+
+###### Security Groups vs OUs (One-liners)
+
+- **OUs**: Used to apply group policies to users and computers.
+    
+- **Security Groups**: Used to assign access permissions to resources
