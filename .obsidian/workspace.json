@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux cheatsheet/Untitled.md",
+                "file": "Linux cheatsheet/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Linux"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ace006ae1e5a170",
+  "active": "91ed63277e41d31c",
   "lastOpenFiles": [
     "Windows Fundamentals/Active Directory.md",
-    "Linux cheatsheet/Untitled.md",
+    "Linux cheatsheet/Linux.md",
     "Linux cheatsheet",
     "Untitled",
     "Windows Fundamentals/Basic Commands.md",
