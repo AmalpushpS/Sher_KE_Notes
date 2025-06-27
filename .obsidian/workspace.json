@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Fundamentals/Active Directory.md",
+                "file": "Linux cheatsheet/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory"
+              "title": "Untitled"
             }
           }
         ]
@@ -185,12 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91ed63277e41d31c",
+  "active": "9ace006ae1e5a170",
   "lastOpenFiles": [
-    "Windows Fundamentals/Basic Commands.md",
     "Windows Fundamentals/Active Directory.md",
-    "Windows Fundamentals/NTFS.md",
+    "Linux cheatsheet/Untitled.md",
+    "Linux cheatsheet",
     "Untitled",
+    "Windows Fundamentals/Basic Commands.md",
+    "Windows Fundamentals/NTFS.md",
     "Windows Fundamentals",
     "Welcome.md"
   ]
