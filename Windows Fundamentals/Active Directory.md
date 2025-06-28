@@ -71,3 +71,4 @@ OUs - Organizational Units
 - **OUs**: Used to apply group policies to users and computers.
     
 - **Security Groups**: Used to assign access permissions to resources
+
