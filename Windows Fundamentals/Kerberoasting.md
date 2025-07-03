@@ -23,3 +23,10 @@ No, Not all service accounts have SPNs associated with them. A service account i
     - Their TGT
 - If the request is valid, the TGS issues a service ticket which is encrypted with the NTLM hash of the service account associated with the provided SPN.
 - The service ticket can only be decrypted by the service account whose password hash was used to encrypt it
+
+### What is a TGT?
+
+- A TGT (Ticket Granting Ticket) is a kerberos authentication token that allows a user to prove their identity to the domain, without needing to enter their password everytime.
+- A TGT is issued by the KDC after successful auth to the KDC.
+- It allows users to request for Service tickets to access services.
+- Just like cookies of a website.

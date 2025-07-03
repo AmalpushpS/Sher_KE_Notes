@@ -143,7 +143,7 @@
               "type": "outline",
               "state": {
                 "file": "Windows Fundamentals/Kerberoasting.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b045e86f90e5168c",
+  "active": "d3df8f5bda4bcefb",
   "lastOpenFiles": [
     "Windows Fundamentals/NTFS.md",
     "Windows Fundamentals/Kerberoasting.md",
