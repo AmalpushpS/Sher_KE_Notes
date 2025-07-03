@@ -18,4 +18,3 @@ ADS is a feature in NTFS that lets a file store extra hidden data. File Explorer
 
 While hackers can use **ADS** to hide malware.
 
-# sher
