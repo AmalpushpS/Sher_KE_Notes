@@ -1,4 +1,4 @@
-Kerberoasting is another popular attack pertinent to a Windows Domain Environment. Unlike ASREPRoasting, it is a post-authentication attack that requires access to a Domain User's account. It allows attackers to extract service account hashes and crack them to gain privileged access.
+,Kerberoasting is another popular attack pertinent to a Windows Domain Environment. Unlike ASREPRoasting, it is a post-authentication attack that requires access to a Domain User's account. It allows attackers to extract service account hashes and crack them to gain privileged access.
 ### SPN
 
 Every service in a Domain Environment is associated with a service account. SPN Stands for Service Principal Name. A SPN is a unique identifier that maps a service to a Domain Account. Basically it tells kerberos : "which user owns which service"
