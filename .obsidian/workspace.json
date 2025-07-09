@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux cheatsheet/Linux commands.md",
+                "file": "Linux cheatsheet/OSI-Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux commands"
+              "title": "OSI-Modules"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux cheatsheet/Linux commands.md",
+                "file": "Linux cheatsheet/OSI-Modules.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux commands"
+              "title": "Outline of OSI-Modules"
             }
           }
         ],
@@ -171,9 +171,10 @@
   },
   "active": "b045e86f90e5168c",
   "lastOpenFiles": [
-    "Linux cheatsheet/Linux.md",
-    "Linux cheatsheet/Linux commands.md",
+    "Pasted image 20250709230126.png",
     "Linux cheatsheet/Nmap.md",
+    "Linux cheatsheet/OSI-Modules.md",
+    "Linux cheatsheet/Linux.md",
     "Windows Fundamentals/Active Directory.md",
     "Windows Fundamentals/NTFS.md",
     "Windows Fundamentals/Basic Commands.md",
