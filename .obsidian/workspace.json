@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/TCP-IP.md",
+                "file": "Networking/OSI-Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP-IP"
+              "title": "OSI-Models"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/TCP-IP.md",
+                "file": "Networking/OSI-Models.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TCP-IP"
+              "title": "Outline of OSI-Models"
             }
           }
         ],
@@ -171,12 +171,12 @@
   },
   "active": "b045e86f90e5168c",
   "lastOpenFiles": [
-    "Pasted image 20250709230844.png",
-    "Linux cheatsheet/Nmap.md",
-    "Networking/OSI-Models.md",
-    "Networking/TCP-IP.md",
-    "Networking",
     "Pasted image 20250709230126.png",
+    "Networking/OSI-Models.md",
+    "Linux cheatsheet/Nmap.md",
+    "Networking/TCP-IP.md",
+    "Pasted image 20250709230844.png",
+    "Networking",
     "Linux cheatsheet/Linux.md",
     "Windows Fundamentals/Active Directory.md",
     "Windows Fundamentals/NTFS.md",
