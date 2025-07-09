@@ -1,3 +1,5 @@
+
+
 ```bash
 🔹 Layer 7 – Application:  
 Interfaces directly with user applications, enabling them to send/receive data over a network.
@@ -21,4 +23,3 @@ Adds physical (MAC) addressing, formats data for transmission, and performs erro
 Deals with actual hardware transmission—sending and receiving raw binary data as electrical or optical signals.
 ```
 
-![[Pasted image 20250709230126.png]]
