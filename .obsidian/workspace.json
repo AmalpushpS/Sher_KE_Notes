@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Fundamentals/Active Directory.md",
+                "file": "Linux cheatsheet/Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory"
+              "title": "Nmap"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Fundamentals/Active Directory.md",
+                "file": "Linux cheatsheet/Nmap.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Active Directory"
+              "title": "Outline of Nmap"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "b045e86f90e5168c",
   "lastOpenFiles": [
+    "Windows Fundamentals/Active Directory.md",
     "Windows Fundamentals/Basic Commands.md",
     "Windows Fundamentals/NTFS.md",
     "Windows Fundamentals/Kerberoasting.md",
@@ -181,7 +182,6 @@
     "Pasted image 20250709230844.png",
     "Networking",
     "Linux cheatsheet/Linux.md",
-    "Windows Fundamentals/Active Directory.md",
     "Linux cheatsheet",
     "Untitled",
     "Windows Fundamentals",
