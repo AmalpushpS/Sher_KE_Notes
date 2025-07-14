@@ -31,3 +31,9 @@ bandit14:The **username** you are logging in as
 echo MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS | nc localhost 30000
 
 ```
+
+### `openssl`
+
+```
+openssl s_client -connect localhost:30001
+```
