@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux cheatsheet/Nmap.md",
+                "file": "Linux cheatsheet/Basic Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "Basic Commands"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux cheatsheet/Nmap.md",
+                "file": "Linux cheatsheet/Basic Commands.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nmap"
+              "title": "Outline of Basic Commands"
             }
           }
         ],
@@ -171,17 +171,18 @@
   },
   "active": "b045e86f90e5168c",
   "lastOpenFiles": [
-    "Windows Fundamentals/Active Directory.md",
     "Windows Fundamentals/Basic Commands.md",
+    "Linux cheatsheet/Basic Commands.md",
+    "Linux cheatsheet/Linux.md",
+    "Linux cheatsheet/Nmap.md",
+    "Windows Fundamentals/Active Directory.md",
     "Windows Fundamentals/NTFS.md",
     "Windows Fundamentals/Kerberoasting.md",
     "Networking/OSI-Models.md",
     "Pasted image 20250709230126.png",
-    "Linux cheatsheet/Nmap.md",
     "Networking/TCP-IP.md",
     "Pasted image 20250709230844.png",
     "Networking",
-    "Linux cheatsheet/Linux.md",
     "Linux cheatsheet",
     "Untitled",
     "Windows Fundamentals",
