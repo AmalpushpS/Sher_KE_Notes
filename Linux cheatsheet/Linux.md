@@ -25,3 +25,10 @@ bandit14:The **username** you are logging in as
 @localhostConnect to the **local machine** (replace with IP/domain if needed)
 ```
 
+
+```
+
+```bash 
+echo MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS | nc localhost 30000
+
+```
